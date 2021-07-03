@@ -1,0 +1,16 @@
+C:\Users\пк\source\repos\sevzapmetod\bin\Debug\net5.0\sevzapmetod.exe
+C:\Users\пк\source\repos\sevzapmetod\bin\Debug\net5.0\sevzapmetod.deps.json
+C:\Users\пк\source\repos\sevzapmetod\bin\Debug\net5.0\sevzapmetod.runtimeconfig.json
+C:\Users\пк\source\repos\sevzapmetod\bin\Debug\net5.0\sevzapmetod.runtimeconfig.dev.json
+C:\Users\пк\source\repos\sevzapmetod\bin\Debug\net5.0\sevzapmetod.dll
+C:\Users\пк\source\repos\sevzapmetod\bin\Debug\net5.0\ref\sevzapmetod.dll
+C:\Users\пк\source\repos\sevzapmetod\bin\Debug\net5.0\sevzapmetod.pdb
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.AssemblyInfo.cs
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.dll
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\ref\sevzapmetod.dll
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.pdb
+C:\Users\пк\source\repos\sevzapmetod\obj\Debug\net5.0\sevzapmetod.genruntimeconfig.cache
